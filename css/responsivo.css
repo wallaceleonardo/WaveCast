@@ -1,3 +1,4 @@
+/* propriedades media queires para celular */
 @media only screen and (max-width: 1023px) {
     .menu-lateral,
     .rodape,
@@ -33,6 +34,7 @@
 
 }
 
+/* propriedades media queires para tablet */
 @media only screen and (min-width: 1024px) and (max-width: 1399px) {
 
     .container {
@@ -43,6 +45,10 @@
     .cabecalho .cabecalho__logo,
     .cabecalho__botao__avancar {
         display: none;
+    }
+
+    .menu-lateral {
+        width: 208px;
     }
 
     .navbar {
@@ -68,11 +74,16 @@
 
 }
 
+/* propriedades media queires para desktop */
 @media only screen and (min-width: 1400px) {
 
     .navbar,
     .cabecalho__logo {
         display: none;
+    }
+
+    .menu-lateral {
+        width: 228px;
     }
 
 }
