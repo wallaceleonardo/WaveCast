@@ -15,9 +15,11 @@
 ## Artigos Alura:
 ### [Extensões VS Code: descubra quais são as mais usadas](https://www.alura.com.br/artigos/extensoes-vs-code-descubra-as-mais-usadas)
 ### [Criando Layouts com CSS Grid Layout](https://www.alura.com.br/artigos/criando-layouts-com-css-grid-layout)
+### [CSS Grid: guia de propriedades de grid container e grid item](https://www.alura.com.br/artigos/css-grid-guia-propriedades-grid-container-grid-item)
 
 ## Artigos e links complementares:
 ### [CSS Grid Layout Module](https://www.w3schools.com/css/css_grid.asp)
+### [Grid Garden](https://cssgridgarden.com/) >>> Site ideal para fixar o conteúdo sobre CSS Grid.
 
 
 ## Para saber mais: como o Grid funciona?
