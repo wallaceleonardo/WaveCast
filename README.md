@@ -14,7 +14,7 @@
 
 ## Artigos Alura:
 ### [Extensões VS Code: descubra quais são as mais usadas](https://www.alura.com.br/artigos/extensoes-vs-code-descubra-as-mais-usadas)
-
+### [Criando Layouts com CSS Grid Layout](https://www.alura.com.br/artigos/criando-layouts-com-css-grid-layout)
 
 ## Artigos e links complementares:
 ### [CSS Grid Layout Module](https://www.w3schools.com/css/css_grid.asp)

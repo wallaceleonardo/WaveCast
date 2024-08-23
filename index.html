@@ -4,23 +4,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- título e favicon -->
     <title>WaveCast</title>
     <link rel="shortcut icon" href="./img/Logos/Favicon.svg" type="image/x-icon">
+    <!-- imports de fontes -->
     <link href="https://cdn.jsdelivr.net/npm/reset-css@5.0.2/reset.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <!-- links css -->
+    <link rel="stylesheet" href="./css/grid/index.css">
+    <link rel="stylesheet" href="./css/grid/menu.css">
+    <link rel="stylesheet" href="./css/grid/secao.css">
+    <link rel="stylesheet" href="./css/grid/cartao.css">
     <link rel="stylesheet" href="./css/base.css">
     <link rel="stylesheet" href="./css/responsivo.css">
-    <link rel="stylesheet" href="./css/grid/index.css">
 </head>
 
 <body>
-
+    <!-- cabeçalho -->    
     <header class="cabecalho container">
         <a href="#"><img class="cabecalho__logo" src="./img/Logos/CastWave_logo.svg" alt="Logo da WaveCast"></a>
         <button class="cabecalho__botao"><img src="./img/Icones/seta-voltar.svg" alt="Seta voltar"></button>
         <button class="cabecalho__botao cabecalho__botao__avancar"><img src="./img/Icones/seta-avancar.svg" alt="Seta avançar"></button>
     </header>
-
+    <!-- menu lateral -->
     <aside class="menu-lateral">
         <a href="#" class="menu-lateral__logo"><img src="./img/Logos/CastWave_logo.svg" alt="Logo da CastWave"></a>
         <nav>
@@ -36,6 +42,7 @@
             <li class="menu-lateral__link"><button aria-label="Botão podcasts salvos"><img src="./img/Icones/stars-branco.svg" alt="Logo do botão Podcasts salvos">Podcasts salvos</button></li>
         </ul>
     </aside>
+    <!-- cards horizontal e os verticais -->
     <main class="principal container">
         <section class="secao secao-horizontal">
             <h2 class="secao__titulo">Tocados recentemente</h2>
